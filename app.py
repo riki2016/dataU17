@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import os
 
-st.set_page_config(page_title="Dashboard Performance Atletica", layout="wide")
+st.set_page_config(page_title="Dashboard Performance Atletica U17", layout="wide")
 
 st.title("Dashboard Performance Atletica")
 
