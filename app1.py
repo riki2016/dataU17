@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import os
 
-st.set_page_config(page_title="Dashboard Weekly Performance", layout="wide")
+st.set_page_config(page_title="Dashboard Weekly Performance U17", layout="wide")
 st.title("Weekly Training + Test vs League Match")
 
 # ================== 1. CARICAMENTO FILE ==================
